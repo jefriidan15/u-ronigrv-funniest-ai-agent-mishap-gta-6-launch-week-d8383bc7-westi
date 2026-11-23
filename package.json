@@ -1,0 +1,1 @@
+{"description":"Funniest AI Agent Mishap: GTA 6 Launch Week — make.fun entry. main.ts writes one sentence to /output/entry.txt.","license":"MIT","name":"funniest-ai-agent-mishap-gta-6","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
